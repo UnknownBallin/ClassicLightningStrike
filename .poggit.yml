@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/UnknownBallin/ClassicLightningStrike
+branches:
+- master
+projects:
+  ClassicLightningStrike:
+    path: ""
+    icon: icon.png
+...
